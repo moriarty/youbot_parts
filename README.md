@@ -1,2 +1,2 @@
-youbot_parts
+3D models of Parts for the Kuka YouBot
 ============
